@@ -1,0 +1,78 @@
+body {
+  background-color: #d9d9d9;
+  color: #0B2F3A;
+}
+
+.ctn-boss {
+  background-color: #FAFAFA;
+  margin: 10% 5% 10% 5%;
+}
+
+.ctn-title {
+  padding-top: 7%;
+  text-align: center;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.sub-title {
+  font-weight: normal;
+}
+
+img {
+  display: block;
+  padding-top: 5%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.title-life {
+  font-weight: bold;
+  text-align: center;
+}
+
+.ctn-life{
+  font-size: 18px;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+  line-height: 150%;
+}
+
+.ctn-appraise {
+  margin-top: 8%;
+}
+
+.ctn-appraiseContent {
+  color: #0B615E;
+  font-size: 22px;
+  text-align: center;
+}
+.ctn-appraiseAuthor {
+  font-size: 20px;
+  color: #848484;
+  text-align: center;
+  padding-top: 3%;   
+}
+
+.ctn-moreInfo {
+  font-size: 25px;
+  padding: 5% 20% 10% 20%;
+}
+
+.link {
+  color: #0489B1;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin: 5%;
+  font-family: sans-serif;
+  color: #848484;
+}

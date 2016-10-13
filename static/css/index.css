@@ -5,7 +5,8 @@ body {
 
 .ctn-boss {
   background-color: #FAFAFA;
-  margin: 10% 5% 10% 5%;
+  margin: 10% 10% 10% 10%;
+  box-shadow: 10px 10px 5px grey;
 }
 
 .ctn-title {

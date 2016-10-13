@@ -1,0 +1,21 @@
+{
+  "name": "TributePage",
+  "version": "0.0.0",
+  "description": "User Story: I can view a tribute page with an image and text.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lliu05/TributePage.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lliu05/TributePage/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
